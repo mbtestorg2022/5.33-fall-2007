@@ -13,55 +13,525 @@ During the first six weeks of the course, the class attends a series of lectures
 
 The lab manuals for the experiments referred to in the table below can be found on the [Labs]({{< baseurl >}}/pages/labs) page.
 
-| DAY # | GROUP A | GROUP B | GROUP C |
-| --- | --- | --- | --- |
-| 1 || {{< td-colspan 3 >}}Laboratory check-in{{< /td-colspan >}} |||
-| {{< td-colspan 4 >}}**Begin first rotation**{{< /td-colspan >}} ||||
-| 2-18 | Nitrogen Lab: Day 1 to 17 | Laser Lab and NMR/ESR Lab: Day 1 to 17 | IR Lab: Day 1 to 17 |
-| 19 | Nitrogen Lab: Presentation practice meetings |  {{< br >}}{{< br >}} Laser Lab and NMR/ESR Lab: Day 18 {{< br >}}{{< br >}} Laser Lab: Written report due {{< br >}}{{< br >}}  | IR Lab: Day 18 |
-| 20 | Nitrogen Lab: Presentation practice meetings | NMR/ESR Lab: Day 19 | IR Lab: Day 19 |
-| 21 | Nitrogen Lab: Microsoft® PowerPoint® presentations | NMR/ESR Lab: Oral reports | IR Lab: Written report due |
-| 22 | Nitrogen Lab: Microsoft® PowerPoint® presentations | NMR/ESR Lab: Oral reports | &nbsp; |
-| {{< td-colspan 4 >}}**Begin second rotation**{{< /td-colspan >}} ||||
-| 23-38 | Laser Lab and NMR/ESR Lab: Day 1 to 16 | IR Lab: Day 1 to 16 | Nitrogen Lab: Day 1 to 16 |
-| 39 |  {{< br >}}{{< br >}} Laser Lab and NMR/ESR Lab: Day 17 {{< br >}}{{< br >}} Laser Lab: Written report due {{< br >}}{{< br >}}  | IR Lab: Day 17 | Nitrogen Lab: Day 17 |
-| 40 | NMR/ESR Lab: Day 18 | IR Lab: Day 18 | Nitrogen Lab: Presentation practice meetings |
-| 41 | NMR/ESR Lab: Day 19 | IR Lab: Day 19 | Nitrogen Lab: Presentation practice meetings |
-| 42 | NMR/ESR Lab: Oral reports | IR Lab: Written report due | Nitrogen Lab: Microsoft® PowerPoint® presentations |
-| 43 | NMR/ESR Lab: Oral reports | &nbsp; | Nitrogen Lab: Microsoft® PowerPoint® presentations |
-| {{< td-colspan 4 >}}**Begin third rotation**{{< /td-colspan >}} ||||
-| 44-59 | IR Lab: Day 1 to 16 | Nitrogen Lab: Day 1 to 16 | Laser Lab and NMR/ESR Lab: Day 1 to 16 |
-| 60 | IR Lab: Day 17 | Nitrogen Lab: Day 17 |  {{< br >}}{{< br >}} Laser Lab and NMR/ESR Lab: Day 17 {{< br >}}{{< br >}} Laser Lab: Written report due {{< br >}}{{< br >}}  |
-| 61 | IR Lab: Day 18 | Nitrogen Lab: Presentation practice meetings | NMR/ESR Lab: Day 18 |
-| 62 | IR Lab: Day 19 | Nitrogen Lab: Presentation practice meetings | NMR/ESR Lab: Day 19 |
-| 63 | IR Lab: Written report due | Nitrogen Lab: Microsoft® PowerPoint® presentations | NMR/ESR Lab: Oral reports |
-| 64 | &nbsp; | Nitrogen Lab: Microsoft® PowerPoint® presentations | NMR/ESR Lab: Oral reports |
-| 65 || {{< td-colspan 3 >}}Laboratory check-out{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY #
+{{< thclose >}}
+{{< thopen >}}
+GROUP A
+{{< thclose >}}
+{{< thopen >}}
+GROUP B
+{{< thclose >}}
+{{< thopen >}}
+GROUP C
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+Laboratory check-in
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Begin first rotation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-18
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Day 1 to 17
+{{< tdclose >}}
+{{< tdopen >}}
+Laser Lab and NMR/ESR Lab: Day 1 to 17
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 1 to 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Presentation practice meetings
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Laser Lab and NMR/ESR Lab: Day 18
+
+Laser Lab: Written report due
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Presentation practice meetings
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Day 19
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Microsoft® PowerPoint® presentations
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Oral reports
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Written report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Microsoft® PowerPoint® presentations
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Oral reports
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Begin second rotation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-38
+{{< tdclose >}}
+{{< tdopen >}}
+Laser Lab and NMR/ESR Lab: Day 1 to 16
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 1 to 16
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Day 1 to 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Laser Lab and NMR/ESR Lab: Day 17
+
+Laser Lab: Written report due
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 17
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Day 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Day 18
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 18
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Presentation practice meetings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Day 19
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 19
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Presentation practice meetings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Oral reports
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Written report due
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Microsoft® PowerPoint® presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Oral reports
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Microsoft® PowerPoint® presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Begin third rotation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44-59
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 1 to 16
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Day 1 to 16
+{{< tdclose >}}
+{{< tdopen >}}
+Laser Lab and NMR/ESR Lab: Day 1 to 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+60
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 17
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Day 17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Laser Lab and NMR/ESR Lab: Day 17
+
+Laser Lab: Written report due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+61
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 18
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Presentation practice meetings
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Day 18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+62
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Day 19
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Presentation practice meetings
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Day 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+63
+{{< tdclose >}}
+{{< tdopen >}}
+IR Lab: Written report due
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Microsoft® PowerPoint® presentations
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Oral reports
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+64
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen Lab: Microsoft® PowerPoint® presentations
+{{< tdclose >}}
+{{< tdopen >}}
+NMR/ESR Lab: Oral reports
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+65
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+Laboratory check-out
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "lec_schedule" >}}{{< /anchor >}}Lecture Schedule
 ------------------------------------------------------------
 
 The lecture notes for the lectures listed below can be found on the [Lecture Notes]({{< baseurl >}}/pages/lecture-notes) page. On some indicated sessions, only the specified group is required to go to lecture.
 
-| DAY # | LECTURE TOPICS |
-| --- | --- |
-| &nbsp; |
-| 1 | Mandatory safety lecture |
-| {{< td-colspan 5 >}}**Begin first rotation**{{< /td-colspan >}} |||||
-| 2 | Introduction, course organization |
-| 5 | Classical description of spectroscopy, part I |
-| 7 | Spectroscopy II |
-| 10 | Principles for interpreting molecular spectra |
-| 11 | Electronic spectroscopy (Group B only) |
-| 12 | Vibrational spectroscopy |
-| 13 | Analysis of IR spectra (Group C only) |
-| 14 | Preparing oral presentations |
-| 16 | Nitrogen scission with Molybdenum complexes |
-| 19 | Magnetic resonance: NMR |
-| 21 | Magnetic resonance: ESR |
-| {{< td-colspan 5 >}}**Begin second rotation**{{< /td-colspan >}} |||||
-| 24 | Electronic spectroscopy (Group A only) |
-| 27 | Analysis of IR spectra (Group B only) |
-| {{< td-colspan 5 >}}**Begin third rotation**{{< /td-colspan >}} |||||
-| 46 | Electronic spectroscopy (Group C only) |
-| 48 | Analysis of IR spectra (Group A only)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Mandatory safety lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Begin first rotation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, course organization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Classical description of spectroscopy, part I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Spectroscopy II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Principles for interpreting molecular spectra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic spectroscopy (Group B only)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrational spectroscopy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of IR spectra (Group C only)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Preparing oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen scission with Molybdenum complexes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic resonance: NMR
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic resonance: ESR
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Begin second rotation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic spectroscopy (Group A only)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of IR spectra (Group B only)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Begin third rotation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+46
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic spectroscopy (Group C only)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of IR spectra (Group A only)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

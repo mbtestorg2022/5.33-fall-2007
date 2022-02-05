@@ -10,9 +10,100 @@ The experiments described in these materials are potentially hazardous and requi
   
 [Legal Notice](/terms/)
 
-| EXPERIMENTS | APPENDICES |
-| --- | --- |
-|  {{< br >}}{{< br >}} IR Lab: {{< br >}}{{< br >}} Molecular spectroscopy of acetylene and methane ([PDF]({{< baseurl >}}/resources/5_33_exp_1)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Group theory ([PDF]({{< baseurl >}}/resources/5_33_exp_1_app_1)) {{< br >}}{{< br >}} DFT calculations ([PDF]({{< baseurl >}}/resources/ir_appendix2)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} NMR/ESR Lab: {{< br >}}{{< br >}} Magnetic resonance spectroscopy ([PDF]({{< baseurl >}}/resources/5_33_exp2a)) {{< br >}}{{< br >}} ESR spectroscopy ([PDF]({{< baseurl >}}/resources/5_33_exp2b)) {{< br >}}{{< br >}}  | DFT calculations ([PDF 1]({{< baseurl >}}/resources/esr_appendix1)) ([PDF 2]({{< baseurl >}}/resources/esr_appendix2)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.) |
-|  {{< br >}}{{< br >}} Laser Lab: {{< br >}}{{< br >}} Time-resolved electronic spectroscopy ([PDF]({{< baseurl >}}/resources/5_33_exp3)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Two coupled oscillators ([PDF]({{< baseurl >}}/resources/laser_appendix1)) {{< br >}}{{< br >}} Calculation of R0 ([PDF]({{< baseurl >}}/resources/laser_appendix2)) {{< br >}}{{< br >}} Convolution ([PDF]({{< baseurl >}}/resources/laser_appendix3)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Nitrogen Lab: {{< br >}}{{< br >}} Nitrogen scission by molybdenum (III) xylidene complex ([PDF]({{< baseurl >}}/resources/5_33_exp4)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Theory ([PDF]({{< baseurl >}}/resources/5_33_exp4_app1)) {{< br >}}{{< br >}} Waste inventory sheet ([PDF]({{< baseurl >}}/resources/nitrogenapendix2)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXPERIMENTS
+{{< thclose >}}
+{{< thopen >}}
+APPENDICES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+IR Lab:
+
+Molecular spectroscopy of acetylene and methane ([PDF]({{< baseurl >}}/resources/5_33_exp_1))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group theory ([PDF]({{< baseurl >}}/resources/5_33_exp_1_app_1))
+
+DFT calculations ([PDF]({{< baseurl >}}/resources/ir_appendix2)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+NMR/ESR Lab:
+
+Magnetic resonance spectroscopy ([PDF]({{< baseurl >}}/resources/5_33_exp2a))
+
+ESR spectroscopy ([PDF]({{< baseurl >}}/resources/5_33_exp2b))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+DFT calculations ([PDF 1]({{< baseurl >}}/resources/esr_appendix1)) ([PDF 2]({{< baseurl >}}/resources/esr_appendix2)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Laser Lab:
+
+Time-resolved electronic spectroscopy ([PDF]({{< baseurl >}}/resources/5_33_exp3))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Two coupled oscillators ([PDF]({{< baseurl >}}/resources/laser_appendix1))
+
+Calculation of R0 ([PDF]({{< baseurl >}}/resources/laser_appendix2))
+
+Convolution ([PDF]({{< baseurl >}}/resources/laser_appendix3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Nitrogen Lab:
+
+Nitrogen scission by molybdenum (III) xylidene complex ([PDF]({{< baseurl >}}/resources/5_33_exp4)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Theory ([PDF]({{< baseurl >}}/resources/5_33_exp4_app1))
+
+Waste inventory sheet ([PDF]({{< baseurl >}}/resources/nitrogenapendix2)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

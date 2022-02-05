@@ -47,13 +47,84 @@ Your grade in 5.33 will depend on the sum of scores for each of the four experim
 
 The breakdown is as follows:
 
-| EXPERIMENT # | TOPICS AND FORMATS | POINTS |
-| --- | --- | --- |
-| 1 | IR spectroscopy: written report | 30 points |
-| 2 | NMR and ESR: oral report | 30 points |
-| 3 | Time-resolved spectroscopy: written report | 40 points |
-| 4 | Nitrogen scission: Microsoft® PowerPoint® presentation | 40 points |
-| &nbsp; | **Total** | **130 points** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXPERIMENT #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS AND FORMATS
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+IR spectroscopy: written report
+{{< tdclose >}}
+{{< tdopen >}}
+30 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+NMR and ESR: oral report
+{{< tdclose >}}
+{{< tdopen >}}
+30 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Time-resolved spectroscopy: written report
+{{< tdclose >}}
+{{< tdopen >}}
+40 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Nitrogen scission: Microsoft® PowerPoint® presentation
+{{< tdclose >}}
+{{< tdopen >}}
+40 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**130 points**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Teaching assistants will grade the individual experiments according to the following principles. The number of points given will primarily reflect the understanding of the experiment (in theory and practice), the analysis and interpretation of the data, and safe laboratory practice. The data quality, presentation, and the experimental skill of the student will also be considered, although to a lesser extent.
 
