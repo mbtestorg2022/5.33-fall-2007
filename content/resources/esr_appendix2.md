@@ -7,6 +7,7 @@ description: This appendix describes the use of Gaussian 98W software for runnin
   98W input file, the running of the calculation, and reading of the output file.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/9edd61eeef39b5a4cdc61dc86549196c_esr_appendix2.pdf
 file_type: application/pdf
+parent_uid: 35c8d0a6-0701-3d3a-8a04-5aa4f3177282
 resourcetype: Document
 title: esr_appendix2.pdf
 uid: 9edd61ee-ef39-b5a4-cdc6-1dc86549196c

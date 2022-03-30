@@ -8,6 +8,7 @@ description: This appendix describes the use of Gaussian 98W software for calcul
   values.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/a5419c558c0bf96be87b70c15195463c_ir_appendix2.pdf
 file_type: application/pdf
+parent_uid: 35c8d0a6-0701-3d3a-8a04-5aa4f3177282
 resourcetype: Document
 title: ir_appendix2.pdf
 uid: a5419c55-8c0b-f96b-e87b-70c15195463c

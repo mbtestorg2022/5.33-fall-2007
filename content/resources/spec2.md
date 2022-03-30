@@ -5,6 +5,7 @@ description: This resource includes information on classical equation of motion 
   and interaction of molecule with EM field.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/fc856998d9f70cba0f40919429835b72_spec2.pdf
 file_type: application/pdf
+parent_uid: a0626016-c8f1-e8e6-ab42-386ec1f29f44
 resourcetype: Document
 title: spec2.pdf
 uid: fc856998-d9f7-0cba-0f40-919429835b72

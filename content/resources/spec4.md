@@ -6,6 +6,7 @@ description: This course inculdes information on what variables do we need to ch
   and intensity of absorption lines.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/f184fdf4fa64a8f384a723e255053bec_spec4.pdf
 file_type: application/pdf
+parent_uid: a0626016-c8f1-e8e6-ab42-386ec1f29f44
 resourcetype: Document
 title: spec4.pdf
 uid: f184fdf4-fa64-a8f3-84a7-23e255053bec
